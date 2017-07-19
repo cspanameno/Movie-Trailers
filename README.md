@@ -2,10 +2,6 @@
 
 The Movie Trailer Website has a list of favorite movies and shows their trailers from Youtube.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 ### Tech
 Python, HTML
 
