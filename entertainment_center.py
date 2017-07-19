@@ -45,7 +45,8 @@ hunger_games = media.Movie(
     "https://www.youtube.com/watch?v=4S9a5V9ODuY"
     )
 
-movies = [get_out, beauty_and_the_beast, juno, ip_man, fox_and_the_hound, hunger_games]
+movies = [get_out, beauty_and_the_beast, juno, ip_man, fox_and_the_hound,
+          hunger_games]
 
 
 fresh_tomatoes.open_movies_page(movies)

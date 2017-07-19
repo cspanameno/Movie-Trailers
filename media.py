@@ -10,6 +10,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    """This function opens the webbrowser and has it go to the URL passed in"""
     def show_trailer(self):
+        """This function opens the webbrowser and goes to the URL passed in"""
         webbrowser.open(self.trailer_youtube_url)
